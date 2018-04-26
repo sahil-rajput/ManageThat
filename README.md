@@ -1,5 +1,7 @@
 <h1>ManageThat</h1>
 A multiuser online password managemet system built using Meteor with MongoDB.
+<img width="1440" alt="screen shot 2018-04-26 at 11 14 08 pm" src="https://user-images.githubusercontent.com/20112458/39322985-091649a6-49a9-11e8-8fe8-4af6e89ada1e.png">
+
   <br><br>
 <h2>How to Run</h2>
 <li> Download Meteor from <a href="https://www.meteor.com/install">here</a></li>
