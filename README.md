@@ -1,7 +1,7 @@
 <h1>ManageThat</h1>
 A multiuser online password managemet system built using Meteor with MongoDB.
   <br><br>
-# How to Run
+<h2>How to Run</h2>
 <li> Download Meteor from <a href="https://www.meteor.com/install">here</a></li>
 <li> Open Terminal and go to the project directory.</li>
 <li> Type "meteor" (without quotes) to run the app</li>
